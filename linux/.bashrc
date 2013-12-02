@@ -99,3 +99,5 @@ fi
 #    . /etc/bash_completion
 #fi
 source ~/.nvm/nvm.sh
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
